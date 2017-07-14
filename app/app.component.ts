@@ -1,9 +1,17 @@
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
+
 
 @Component({
-	selector: 'pm-app', 
-	template: `<h1>This is Angular 2</h1>`
+	selector: 'pm-school',
+	template: 
+	`<div> 
+		<h1>This is my First Page</h1>
+		<div> Dummy class</div>
+	</div> `
 })
+
 export class AppComponent{
-	
 }
+
+
+

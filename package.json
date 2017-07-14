@@ -22,24 +22,17 @@
     "@angular/platform-browser": "2.0.0",
     "@angular/platform-browser-dynamic": "2.0.0",
     "@angular/router": "3.0.0",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.3.7",
     "concurrently": "^2.2.0",
     "core-js": "^2.4.1",
     "lite-server": "^2.3.0",
     "reflect-metadata": "^0.1.10",
     "rxjs": "^5.0.0-beta.12",
     "systemjs": "^0.19.27",
-    "tslint": "^3.15.1",
-    "typescript": "^2.4.1",
+    "ts-lint": "^4.5.1",
+    "typescript": "^2.3.4",
     "typings": "^1.5.0",
     "zone.js": "^0.6.26"
-  },
-  "devDependencies": {
-    "concurrently": "^2.2.0",
-    "lite-server": "^2.2.0",
-    "tslint": "^3.7.4",
-    "typescript": "^2.0.2",
-    "typings": "^1.0.4"
   },
   "repository": {}
 }
